@@ -1,5 +1,4 @@
-
-# Unit 20 - "Joint Savings Account"
+## Joint Savings Account
 
 ### Background
 
